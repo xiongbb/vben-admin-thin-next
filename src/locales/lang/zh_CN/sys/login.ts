@@ -7,7 +7,7 @@ export default {
   forgetFormTitle: '重置密码',
 
   signInTitle: '太和医院医保后台管理系统',
-  signInDesc: '@copyright 太和医院信息资源部 2021',
+  signInDesc: '@copyright 太和医院信息资源部计算机中心 2021',
   policy: '我同意xxx隐私政策',
   scanSign: `扫码后点击"确认"，即可完成登录`,
 
